@@ -1,1 +1,1 @@
-yaaaaa
+min2.py
